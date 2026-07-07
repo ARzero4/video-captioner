@@ -1,0 +1,7 @@
+graphify-out/
+tmp_videos/
+results.json
+__pycache__/
+*.pyc
+.env
+.DS_Store
